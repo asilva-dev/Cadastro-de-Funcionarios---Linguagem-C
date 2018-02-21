@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1512978821 source:c:\users\amanda\desktop\acme\cargo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"cargo.h"
+
+1512978926 c:\users\amanda\desktop\acme\cargo.h
+	<stdio.h>
+	<stdlib.h>
+
+1512979007 source:c:\users\amanda\desktop\acme\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"lista.h"
+	"cargo.h"
+
+1512978954 c:\users\amanda\desktop\acme\lista.h
+
+1512979024 source:c:\users\amanda\desktop\acme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"lista.h"
+	"cargo.h"
+
+1512975222 source:c:\users\amanda\desktop\cadastro de funcionarios - linguagem c\acme\cargo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"cargo.h"
+
+1512975328 c:\users\amanda\desktop\cadastro de funcionarios - linguagem c\acme\cargo.h
+	<stdio.h>
+	<stdlib.h>
+
+1512975408 source:c:\users\amanda\desktop\cadastro de funcionarios - linguagem c\acme\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"lista.h"
+	"cargo.h"
+
+1512975356 c:\users\amanda\desktop\cadastro de funcionarios - linguagem c\acme\lista.h
+
+1512975426 source:c:\users\amanda\desktop\cadastro de funcionarios - linguagem c\acme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"lista.h"
+	"cargo.h"
+

@@ -1,0 +1,30 @@
+7842;Abastecedor de máquinas de linha de produção
+2521;Administrador                                 	
+2123;Administrador de banco de dados		      	
+1424;Administrador de compras		      	
+2521;Administrador de marketing		     
+5171;Bombeiro civil					
+3184;Desenhista técnico de arte-final		
+3180;Desenhista copista 		
+2624;Desenhista de produto 		
+2394;Designer educacional					
+2512;Economista					
+9531;Eletricista de instalações 
+7156;Eletricista de instalações industriais		
+7841;Empacotador				
+1422;Gerente de administração de pessoal		
+1424;Gerente de compras				
+8214;Marcador de produtos	
+3003;Reparador de equipamentos elétricos eletrônicos 
+9144;Retificador de motores a diesel			
+7166;Retocador de pintura				
+7661;Revisor gráfico					
+7841;Rotulador					
+3515;Secretária(técnico em secretariado - português)	
+7244;Serralheiro					
+7243;Soldador					
+3131;Técnico de operação eletrotécnica		
+3911;Técnico de planejamento de produção
+3132;Técnicos em eletrônica		
+5211;Vendedor interno				
+5174;Vigia				
